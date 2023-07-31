@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "price": 25.99,
+      "description": "This is product A, a great product!",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 19.95,
+      "description": "Product B is perfect for your needs.",
+      "category": "Clothing"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 7.49,
+      "description": "Product C is the solution you've been looking for.",
+      "category": "Home & Kitchen"
+    }
+  ]
+}
